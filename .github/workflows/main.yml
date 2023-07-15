@@ -16,7 +16,7 @@ jobs:
       # Install NPM dependencies, cache them correctly
       # and run all Cypress tests
       - name: Cypress run
-        uses: cypress-io/github-action@v4 # use the explicit version number
+        uses: cypress-io/github-action@v5 # use the explicit version number
         with:
           command: npm run cypress:run
       - name: Uploading artifact
