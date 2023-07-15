@@ -1,5 +1,5 @@
 # La Coco Crypto Exchange - QA
-Assignment walkthrough video : https://drive.google.com/file/d/1h2TH2v0u2FkTjaF0QR24w1ghq90mxkgZ/view?usp=drive_link 
+Assignment walkthrough video : https://drive.google.com/file/d/1dJFqjl8g08RNSEy1gTiQzXCQlMyVMKS0/view?usp=drive_link 
 ## Tech Stacks
 
 1. Cypress
