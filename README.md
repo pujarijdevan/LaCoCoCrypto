@@ -22,6 +22,7 @@
 3. TC-03 Verify exchange supports input field Token to swap and token to receive
 4. TC-04 On change of input #1 or input #2, both fields should recalculate
 5. TC-05 Both inputs should be able to switch to other currency
+6. TC -06 Verify user should not be able to select on same currency on both fields
 7. TC-07 Verify Prices should be displayed (e.g, 1 BTC = 16.47 ETH)
 8. TC -08 Verify user should have a swap button and on clicking it, it will reverse the currencies.
 9. TC -09 Verify both input fields accepts numbers
